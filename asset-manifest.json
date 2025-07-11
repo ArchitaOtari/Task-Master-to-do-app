@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Task-Master-to-do-app/static/css/main.d83aceda.css",
+    "main.js": "/Task-Master-to-do-app/static/js/main.a4925ce8.js",
+    "index.html": "/Task-Master-to-do-app/index.html",
+    "main.d83aceda.css.map": "/Task-Master-to-do-app/static/css/main.d83aceda.css.map",
+    "main.a4925ce8.js.map": "/Task-Master-to-do-app/static/js/main.a4925ce8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d83aceda.css",
+    "static/js/main.a4925ce8.js"
+  ]
+}
